@@ -4,6 +4,10 @@ This is my report for DataDNA Starbucks Dataset Challenge Jan 2023
 # Objective:
 Can you identify the most nutritious items on the menu?
 
+# Line Link:
+
+https://app.powerbi.com/view?r=eyJrIjoiOGFmOGJhMzAtOTI3NC00ZTgyLTliNDktODVmMmI3Y2U5NjgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc94deed55b178264923d
+
 # Details:
 This dataset includes the nutritional information for Starbucks’ drink menu items.
 The fields included are Beverage category, Beverage, Beverage prep, Calories, Total Fat (g), Trans Fat (g), Saturated Fat (g), Sodium (mg), Total Carbohydrates (g), Cholesterol (mg), Dietary Fiber (g), Sugars (g), Protein (g), Vitamin A (% DV), Vitamin C (% DV), Calcium (% DV), Iron (% DV), Caffeine (mg).
