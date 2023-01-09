@@ -4,7 +4,7 @@ This is my report for DataDNA Starbucks Dataset Challenge Jan 2023
 # Objective:
 Can you identify the most nutritious items on the menu?
 
-# Line Link:
+# Live Link:
 
 https://app.powerbi.com/view?r=eyJrIjoiOGFmOGJhMzAtOTI3NC00ZTgyLTliNDktODVmMmI3Y2U5NjgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc94deed55b178264923d
 
